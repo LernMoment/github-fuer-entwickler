@@ -1,6 +1,6 @@
 # AKTION - Du brauchst meine Hilfe?
 
-Zum Start dieses Kurses biete ich dir meine Hilfe an. Du hast Fragen rund um GitHub oder brauchst Hilfe beim aufsetzen / verbessern deines GitHub Projektes? Dann erstelle einfach ein [Issue für dieses Projekt](https://github.com/LernMoment/github-fuer-entwickler/issues) und beschreibe wie ich dir helfen kann. Ich antworte! Garantiert!
+Zum Start dieses Kurses biete ich dir meine Hilfe an. Du hast Fragen rund um GitHub oder brauchst Hilfe beim Aufsetzen / Verbessern deines GitHub Projektes? Dann erstelle einfach ein [Issue für dieses Projekt](https://github.com/LernMoment/github-fuer-entwickler/issues) und beschreibe wie ich dir helfen kann. Ich antworte! Garantiert!
 
 # Lerne GitHub und hilf den Udemy-Kurs zu verbessern
 
