@@ -128,3 +128,7 @@ Hier die Details und Möglichkeiten zum Thema Organisationen und Teams erläuter
 
 Hier Informationen insbesondere zu Organisationen und Teams https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/
 Auch erklären, wie es machbar ist, dass die Mitgliedschaft bei Organisationen sichtbar wird im Benutzer-Profile
+
+### Dein Comitt und Du - Zum Abschluss noch was witziges
+
+https://lolcommits.github.io
