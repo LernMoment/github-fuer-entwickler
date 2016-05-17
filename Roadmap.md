@@ -113,13 +113,18 @@ In dieser Lektion zeige ich dir erste Schritte was du bei Problemen machen kanns
 
 Hier die Details und Möglichkeiten zum Thema Organisationen und Teams erläutern. Dazu kann ich vielleicht eine Beispiel-Organisation zeigen? Ansonsten vielleicht besser einfach nur einen Artikel in dem ich die Grundlagen erkläre und dann auf die jeweiligen Webseiten von GitHub verweise.
 
-Organisation
-Eine Organisation ist dann sinnvoll, wenn du mehrere "Owner / Administrator" benötigst.
-Neben dem "Owner" gibt es in einer Organisation noch die Rollen "Billing Manager" und "Member" https://help.github.com/articles/permission-levels-for-an-organization/
-Team
-Es wird unterschieden in sichtbare und unsichtbare Teams https://help.github.com/articles/about-improved-organization-permissions/#expanded-team-settings 
-Externe
-Es gibt "outside collaborators" um beispielsweise Berater, Freiberufler, ... an einem Projekt arbeiten zu lassen https://help.github.com/articles/repository-permission-levels-for-an-organization/#outside-collaborators 
+**Organisation**
+
+ - Eine Organisation ist dann sinnvoll, wenn du mehrere "Owner / Administrator" benötigst.
+ - Neben dem "Owner" gibt es in einer Organisation noch die Rollen "Billing Manager" und "Member" https://help.github.com/articles/permission-levels-for-an-organization/
+
+**Team**
+ 
+ - Es wird unterschieden in sichtbare und unsichtbare Teams https://help.github.com/articles/about-improved-organization-permissions/#expanded-team-settings 
+
+**Externe**
+
+ - Es gibt "outside collaborators" um beispielsweise Berater, Freiberufler, ... an einem Projekt arbeiten zu lassen https://help.github.com/articles/repository-permission-levels-for-an-organization/#outside-collaborators 
 
 Hier Informationen insbesondere zu Organisationen und Teams https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/
 Auch erklären, wie es machbar ist, dass die Mitgliedschaft bei Organisationen sichtbar wird im Benutzer-Profile
