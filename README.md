@@ -1,3 +1,7 @@
+# AKTION - Du brauchst meine Hilfe?
+
+Zum Start dieses Kurses biete ich dir meine Hilfe an. Du hast Fragen rund um GitHub oder brauchst Hilfe beim aufsetzen / verbessern deines GitHub Projektes? Dann erstelle einfach ein [Issue für dieses Projekt](https://github.com/LernMoment/github-fuer-entwickler/issues) und beschreibe wie ich dir helfen kann. Ich antworte! Garantiert!
+
 # Lerne GitHub und hilf den Udemy-Kurs zu verbessern
 
 GitHub ist eine geniale Plattform für Kooperationen und zwar nicht nur wenn es um Quellcode geht. In diesem Projekt sammele ich Feedback von Teilnehmern meines Kurses "[GitHub für Entwickler](https://www.udemy.com/github-fuer-entwickler/?couponCode=UGiHuK-GH_Start)" und arbeite gemeinsam mit Ihnen daran.
