@@ -26,3 +26,10 @@ Die folgenden Aktionen könnte ich mir vorstellen.
     - Wenn ein Teilnehmer Fragen zum Prozess / Workflow hat, kann er mich in seinem Issue / Pull Request erwähnen (“mention” @suchja) und ich helfe ihm.
     - Jedes gelöste Issue / Pull Request kann mir mitgeteilt werden (“mention” @suchja, oder Twitter @LernMoment).
     - Pro Tag erscheint eine Zusammenfassung aller Issues die im Rahmen dieser Challenge gelöst wurden bei Facebook.
+
+### GitHub Issue Parade - Clean Code für Dein Projekt
+ 
+- Angelehnt an eine Blog-Parade
+ - Kategorie: GitHub
+ - Thema: UMSETZEN
+ - Ich gebe ein Thema vor (in diesem Fall “Clean Code”) und die Teilnehmer arbeiten an einem entsprechenden Issue von ihrem Projekt. Ich sammele alle Issues die in dieser Parade gelöst wurden, liste sie in einem Projekt (GitHub-Page) und kommentiere sie dort.
