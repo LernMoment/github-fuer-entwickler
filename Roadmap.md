@@ -2,6 +2,24 @@
 
 Basierend auf den Kommentaren der Teilnehmern und meinen eigenen Ideen, werde ich dokumentieren, welche nächsten Lektionen in den Kurs eingefügt werden.
 
+## Abschnitt zum Thema Branching ?
+
+Es gibt ein paar Punkte rund um das Thema Branching, welche interessant sein könnten. Lohnt es sich dafür einen eigenen Abschnitt zu erstellen?
+
+### Wofür du Branches auf GitHub verwenden kannst
+
+Häufig ist es so, dass du Branches für dich lokal verwendest um eine Funktionalität unabhängig vom Master zu entwickeln. Es gibt aber auch einige Szenarien, in denen du deinen Branch auf GitHub stellen solltest oder gar musst:
+
+ - PullRequest - es wird häufig gerne gesehen, wenn du eine Änderung, die du für einen Pull Request machst in einem separaten Branch in deinem Fork hast. -> Beispiel am Taschenrechner
+ - Vorstellen - Wenn du eine neue Funktionalität entwickelst und brauchst erstes Feedback. Dann kannst du deinen lokalen Branch mit den Änderungen für die neue Funktionalität auf GitHub stellen und die Community um Feedback bitten. -> Beispiel Jekyll
+ - Gemeinsames Arbeiten - In einigen Fällen wird es so sein, dass du mit anderen Personen gemeinsam an einer Funktionalität arbeitest. Dann ist es Pflicht, dass du einen Branch auf GitHub hast, in dem ihr gemeinsam arbeiten könnt. -> Beispiel ?? Neue Version o.ä.
+
+### Visual Studio - Einen lokalen Branch auf GitHub veröffentlichen
+
+Nachdem du lokal deinen Branch erstellt hast und darin auch gearbeitet hast, ist es nun an der Zeit, dass du deiner Community zeigst woran du gerade arbeitest. Dazu kannst einfach deinen bestehenden Branch veröffentlichen.
+
+Etwas komplizierter wird es, wenn du bereits einen Branch auf Github angelegt hast. Dann kommst du um einen Merge nicht herum. Das ist aber auch kein Problem. Ich zeige dir hier Schritt für Schritt was zutun ist.
+
 ## Lektionen für den Abschnitt Tips & Tricks
 
 GitHub hält an einige Stellen so seine Überraschungen für einen bereit. Daher verrate ich dir in diesem Abschnitt die wichtigsten Tips & Tricks.
