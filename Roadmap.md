@@ -83,4 +83,10 @@ Eine Verwendung der Graphs-Funktionalität habe ich dir bereits erklärt. In die
 
 Ist eines der häufigen Probleme bei einem Sync. Ist jedoch die Frage ob ich das wirklich in diesem Kurs oder besser im Git Kurs besprechen sollte.
 
+### Bei Problemen mit GitHub in Visual Studio - Eingabeaufforderung benutzen!
 
+Manchmal passiert es, dass gewisse Aktionen einfach nicht laufen wie sie sollen. So kommt es manchmal vor, dass du einen Branch nicht aus Visual Studio nach GitHub bekommst, oder auch das andere Dinge nicht funktionieren.
+
+Dann ist es wichtig, dass du dir mehr Informationen über das aktuelle Problem besorgen kannst. Dafür gibt es auch unter Windows die Eingabeaufforderung. Diese ist jedoch erstmal nicht so konfiguriert, dass du einfach git-Befehle ausführen kannst.
+
+In dieser Lektion zeige ich dir erste Schritte was du bei Problemen machen kannst und vor allem wie du die Eingabeaufforderung installierst und vorbereitest.
