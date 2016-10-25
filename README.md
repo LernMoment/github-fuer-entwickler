@@ -4,7 +4,7 @@ Zum Start dieses Kurses biete ich dir meine Hilfe an. Du hast Fragen rund um Git
 
 # Lerne GitHub und hilf den Udemy-Kurs zu verbessern
 
-GitHub ist eine geniale Plattform für Kooperationen und zwar nicht nur wenn es um Quellcode geht. In diesem Projekt sammele ich Feedback von Teilnehmern meines Kurses "[GitHub für Entwickler](https://www.udemy.com/github-fuer-entwickler/?couponCode=UGiHuK-15_GH)" und arbeite gemeinsam mit Ihnen daran.
+GitHub ist eine geniale Plattform für Kooperationen und zwar nicht nur wenn es um Quellcode geht. In diesem Projekt sammele ich Feedback von Teilnehmern meines Kurses "[GitHub für Entwickler](http://www.lernmoment.de/einstieg-github/)" und arbeite gemeinsam mit Ihnen daran.
 
 Dabei ist es mir besonders wichtig, dass Teilnehmer des Kurses ihre Fähigkeit GitHub professionell einzusetzen verbessern. Daher gibt es mit diesem und anderen Verzeichnissen von LernMoment immer wieder Aktionen um das Erstellen und Verwenden von Issues, Pull Requests, ... zu üben.
 
